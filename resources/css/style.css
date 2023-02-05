@@ -1,0 +1,24 @@
+html{
+    font-size: 16px;
+}
+
+.navbar{
+    height:4rem;
+    vertical-align: middle;
+}
+
+.navbar img{
+    padding: 1.5rem;
+    vertical-align: middle;
+    float: left;
+}
+
+b{
+    text-transform: uppercase;
+    vertical-align: middle;
+    padding:1.5rem;
+}
+
+#sign-in{
+    float: right;
+}
